@@ -254,11 +254,9 @@ GET    /api/v1/health/time          - Server time
 
 ## 📞 Contact
 
-**Developer:** [Your Name]
-**Email:** [Your Email]
-**Phone:** 09030943445
-**Support:** Support@truemindsltd.com
-**Company:** TrueMinds Innovations Ltd
+**Developer:** Adeyemi Mubarak
+**Email:** adeyemiadigun12@gmail.com
+**Phone:** 07088201223
 
 ---
 
