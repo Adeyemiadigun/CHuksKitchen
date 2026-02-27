@@ -250,7 +250,7 @@ Pending → Confirmed → Preparing → OutForDelivery → Completed
 
 ## 👤 Developer
 
-**Name:** [Your Name]
+**Name: Adeyemi Mubarak
 **Project:** Chuks Kitchen Food Ordering API
 **Internship:** TrueMinds Innovations Ltd
 **Date:** February 2026
